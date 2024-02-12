@@ -178,6 +178,7 @@ Q8 - Adapt the implementation to use asynchronous replication. Do the implementa
 
 
 Q7-bis: implement synchronous mirroring using two differents database structures
+
 Q8-bis: implement asynchronous replication using two different database structure
 
 ---
